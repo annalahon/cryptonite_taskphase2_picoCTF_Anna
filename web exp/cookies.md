@@ -2,6 +2,9 @@
 
 **Flag: picoCTF{3v3ry1_l0v3s_c00k135_bb3b3535}**
 
+**Description:**
+Who doesn't love cookies? Try to figure out the best one. http://mercury.picoctf.net:17781/
+
 **Method:**
 Since they gave us a website, i first typed in the prompt of `snickerdoodle` in the search bar, it says 'I love snickerdoodle cookies!' which wasn't of too much help. 
 Since most website based CTF's use the inspect tool, I used it too to check out the cookies on the page while being on the default page.
