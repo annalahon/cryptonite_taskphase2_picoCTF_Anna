@@ -1,4 +1,4 @@
-# flag leak
+# tunn3l_v1s10n
 
 **Flag:** picoCTF{qu1t3_a_v13w_2020}
 
